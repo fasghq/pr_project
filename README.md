@@ -1,6 +1,6 @@
 # Final project for the Perception in Robotics course
 
-This repository contains the initial stage of the article [gradSLAM: Automagically dif f erentiable SLAM](https://arxiv.org/pdf/1910.10672v3.pdf) implementation.
+This repository contains the initial stage of the article [gradSLAM: Automagically differentiable SLAM](https://arxiv.org/pdf/1910.10672v3.pdf) implementation.
 
 To run the project you need to install all necessary modules:
 
